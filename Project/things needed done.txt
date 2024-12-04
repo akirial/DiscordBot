@@ -1,0 +1,24 @@
+add the following message check to the script
+
+
+-!gbHelp: i need this to show all the commands and functions
+
+-!ranLeader: this just picks a random person from the texChannel thats not a bot to be the leader of the round
+
+-!spawnPeek <insert map>: this should reply back with the popular spawn peaks for the selected map in rainbow siz seige. Theses should be specific and not general
+
+-!bumbum: i need this to play an audio file from the url-https://cdn.discordapp.com/attachments/464506398458380298/1304268788761624646/test1.wav?ex=67428cf7&is=67413b77&hm=6fc5378fc7e1cfeee88c084b07834c344322d823e6676f96fd30379d73732444&
+
+-!speech: give me a motivational speech on how to get out of copper rank in rainbow siz seige, it needs to be heroic and extremely motivational
+
+-!tips <map>: this should give tips for the rainbow siz seige map and return a pic of the map
+
+-!tipOp <Operator>: this should give you tips for a rainbow siz seige operator specified and return a pic of the operator
+
+-!lootP: this should return a random value saying "in [value] games you will get a pack" of when you will get another pack
+
+-!stay: this should return with an audio that says pls dont rome your jsut gunna get killed
+
+-!nSite: this should return there is no one on nSite
+
+-!dPhase: this should return by saying this is the drone phase not the phone  phase
